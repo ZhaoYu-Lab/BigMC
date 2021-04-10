@@ -1,0 +1,2 @@
+./configure  可能出错
+换成   ./configure CXXFLAGS=-std=c++11
