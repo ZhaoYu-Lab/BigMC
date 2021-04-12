@@ -1,2 +1,3 @@
+这是修改版本的BIGMC，修改版本里面的configure会出错，换成以下命令即可
 ./configure  可能出错
 换成   ./configure CXXFLAGS=-std=c++11
